@@ -5,7 +5,7 @@
 Eine minimalistische Webanwendung zur Anzeige des aktuellen Wetters in einer Stadt deiner Wahl.  
 Die Daten werden über die [WeatherAPI](https://www.weatherapi.com/) abgerufen.
 
-![Bild](img\02-big.jpg)
+![Bild](img/02-big.jpg)
 
 
 ## 🔍 Funktionen
